@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NewRun" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.Digimart.userservice.UserserviceApplication" />
+    <module name="userservice" />
+    <option name="VM_PARAMETERS" value="-Duser.timezone=UTC" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
